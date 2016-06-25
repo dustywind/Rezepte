@@ -2,6 +2,8 @@
 
 # Eierschecke
 
+![Eierschecke](../img/Eierschecke.jpg)
+
 ## Quelle
 [B&auml;ckerei Wippler](http://www.baeckerei-wippler.de/index.php?lang=de&node=eierschecke-michael-wippler)
 
